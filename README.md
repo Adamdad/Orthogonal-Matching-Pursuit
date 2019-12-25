@@ -10,6 +10,8 @@ This implementation contains a series of experiments:
 3. Sparse approximation for noiseless image compression and reconstruction
 4. Sparse approximation for noisy image compression and reconstruction
 
+- [Experiment setup](Project2019.pdf)
+
 ## Experiment Result
 
 - Exact recovery rate for $\sigma^2=0$(Noiseless)
@@ -21,4 +23,6 @@ This implementation contains a series of experiments:
 - Exact recovery rate for $\sigma^2=0.01$
 ![Noise1_N50_sigma0.001](plot/Noise1/Noise1_N50_sigma0.01.png)
 
+## Image reconstruction 
 
+Shown in the [report](report/OMP.pdf)
