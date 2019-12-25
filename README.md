@@ -12,7 +12,7 @@ This implementation contains a series of experiments:
 
 - [Experiment setup](Project2019.pdf)
 
-## Experiment Result
+## Signal approximation and Image reconstruction Result 
 
 - Exact recovery rate for $\sigma^2=0$(Noiseless)
 ![Noise1_N50_sigma0.001](plot/Noiseless/N50_ESR_rate.png)
@@ -23,6 +23,6 @@ This implementation contains a series of experiments:
 - Exact recovery rate for $\sigma^2=0.01$
 ![Noise1_N50_sigma0.001](plot/Noise1/Noise1_N50_sigma0.01.png)
 
-## Image reconstruction 
+More details shown in the [report](report/OMP.pdf)
 
-Shown in the [report](report/OMP.pdf)
+
